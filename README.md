@@ -42,7 +42,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Screenshots
 
-*Include a screenshot of the application here.*
 ![Currency Converter Screenshot](app_picture.png)
 
 ---
